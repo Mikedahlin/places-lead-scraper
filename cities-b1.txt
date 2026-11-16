@@ -1,0 +1,8 @@
+# Upper Midwest + NC Tabitha hunt — one "City, ST" per line
+Hutchinson, MN
+Litchfield, MN
+Glencoe, MN
+Waconia, MN
+Buffalo, MN
+Delano, MN
+Monticello, MN

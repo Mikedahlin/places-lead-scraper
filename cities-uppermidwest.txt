@@ -1,0 +1,65 @@
+# Upper Midwest + NC Tabitha hunt — one "City, ST" per line
+Hutchinson, MN
+Litchfield, MN
+Glencoe, MN
+Waconia, MN
+Buffalo, MN
+Delano, MN
+Monticello, MN
+Elk River, MN
+Princeton, MN
+Milaca, MN
+Cambridge, MN
+Mora, MN
+Willmar, MN
+New London, MN
+Paynesville, MN
+Alexandria, MN
+Brainerd, MN
+Little Falls, MN
+Mankato, MN
+New Ulm, MN
+Eau Claire, WI
+Chippewa Falls, WI
+Menomonie, WI
+River Falls, WI
+Hudson, WI
+New Richmond, WI
+Rice Lake, WI
+Marshfield, WI
+Wausau, WI
+Stevens Point, WI
+La Crosse, WI
+Black River Falls, WI
+Fargo, ND
+West Fargo, ND
+Grand Forks, ND
+Valley City, ND
+Jamestown, ND
+Devils Lake, ND
+Minot, ND
+Bismarck, ND
+Sioux Falls, SD
+Brookings, SD
+Watertown, SD
+Aberdeen, SD
+Huron, SD
+Mitchell, SD
+Yankton, SD
+Rapid City, SD
+Decorah, IA
+Mason City, IA
+Clear Lake, IA
+Forest City, IA
+Spencer, IA
+Spirit Lake, IA
+Le Mars, IA
+Sioux City, IA
+Asheville, NC
+Boone, NC
+Hendersonville, NC
+Morganton, NC
+Lenoir, NC
+Waynesville, NC
+Sylva, NC
+Murphy, NC

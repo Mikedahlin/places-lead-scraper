@@ -1,0 +1,20 @@
+# ---- Whitelist: ignore EVERYTHING by default ----
+*
+
+# ---- Allowed files ----
+!/.gitignore
+!/README.md
+!/LICENSE
+!/requirements.txt
+!/.env.example
+!/lead_scraper.py
+!/cities.txt
+!/cities-b1.txt
+!/cities-b2.txt
+!/cities-b3.txt
+!/cities-b4.txt
+!/cities-b5.txt
+!/cities-b6.txt
+!/cities-b7.txt
+!/cities-b8.txt
+!/cities-uppermidwest.txt
